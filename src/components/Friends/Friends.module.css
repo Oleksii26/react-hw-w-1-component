@@ -1,0 +1,38 @@
+.item {
+   
+    display: flex;
+    background-color: brown;
+   
+}
+
+.friendList {
+
+    list-style: none;
+
+    padding: 0;
+}
+
+    
+
+.online {
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    margin: 0;
+    color: green;
+    
+}
+
+.ofline {
+    
+    margin: 0;
+    color: red;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+}

@@ -1,0 +1,19 @@
+.profile {
+    background-color: brown;
+    display: flex;
+    flex-direction: column;
+    
+}
+.description {
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+.stats {
+    list-style: none;
+    margin: 0px auto;
+ 
+}
+.avatar {
+    border-radius: 30%;
+}
